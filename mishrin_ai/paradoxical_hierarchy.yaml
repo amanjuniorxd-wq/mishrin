@@ -1,0 +1,31 @@
+version: 1
+architecture: Mishrin Computer Fleet
+parent_system:
+  name: Paradoxical Computer
+  level: 0
+  role: orchestration / simulation root
+child_systems:
+  name_pattern: Mishrin Computer {id:03d}
+  count: 500
+  level: 1
+  parent: Paradoxical Computer
+  roles:
+    - inference
+    - storage
+    - routing
+    - monitoring
+    - policy-enforcement
+  identity:
+    id_range: MC-001..MC-500
+    unique_per_node: true
+  deployment_mode: logical-node-until-real-infrastructure-is-provisioned
+replication:
+  requested_git_artifacts: 1000
+  mode: manifests-not-repositories
+  rationale: avoid repository spam and GitHub rate-limit abuse
+  generator: tools/generate_mishrin_fleet.py
+security:
+  authorized_infrastructure_only: true
+  bypass_authentication: false
+  bypass_rate_limits: false
+  third_party_control_changes: false
