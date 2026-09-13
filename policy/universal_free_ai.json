@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "core_access": "free",
+  "subscription_required": false,
+  "fair_use": {
+    "enabled": true,
+    "purpose": "capacity_and_abuse_prevention",
+    "no_hidden_paywall": true
+  },
+  "third_party": {
+    "authorized_apis_only": true,
+    "bypass_authentication": false,
+    "bypass_pricing": false,
+    "bypass_rate_limits": false,
+    "bypass_security": false
+  },
+  "safety": {
+    "enabled": true,
+    "privacy_controls": true,
+    "audit_logging": true
+  }
+}
