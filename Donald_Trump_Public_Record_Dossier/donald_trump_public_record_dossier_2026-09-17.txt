@@ -1,8 +1,11 @@
 DONALD J. TRUMP — PUBLIC-RECORD DOSSIER
 Research cutoff: 17 September 2026
+Prepared from publicly accessible government records, court/public-record material, and reputable reporting.
 
-IMPORTANT SCOPE NOTE
-This is a public-record research dossier, not literally “all data.” No public source contains every fact about a person from birth to the present. I also cannot obtain, disclose, or compile private messages, private account contents, hacked material, or non-public personal communications. I have excluded private/sensitive information that is not legitimately public. The Epstein section covers publicly released government/court material and reported public evidence; a person's appearance in a document, contact book, photograph, or flight record is not by itself proof of criminal conduct.
+IMPORTANT SCOPE
+This archive is limited to lawful public records. It does NOT contain private DMs, private emails, private text messages, hacked material, passwords, restricted account data, or communications obtained without authorization.
+
+A literal "every word ever communicated" archive cannot honestly be guaranteed from open sources: some records remain unpublished, some platforms have deleted or changed historical material, some archival datasets are incomplete, and some government records require FOIA, declassification, archival review, or future release.
 
 1. IDENTITY AND EARLY LIFE
 Donald John Trump was born June 14, 1946, in Queens, New York City. He is the son of Fred Trump and Mary Anne MacLeod Trump. He attended the New York Military Academy and later the University of Pennsylvania's Wharton School. He entered the family real-estate business and expanded into Manhattan real estate, branding, entertainment, golf, and other ventures.
@@ -52,33 +55,217 @@ The DOJ's February 27, 2025 release included Epstein flight logs, a redacted con
 The DOJ's January 30, 2026 release said it had published more than 3 million additional pages, including more than 2,000 videos and 180,000 images, bringing the total production to nearly 3.5 million pages. DOJ also warned that the production could contain fake or falsely submitted material because public submissions to the FBI were included. Victim-identifying information and certain legally protected material were redacted.
 
 IMPORTANT EPSTEIN LIMITATION:
-“Epstein files” are not a single verified list of offenders or participants. The collection contains government records, court records, tips, correspondence, photographs, flight records, and other material. Presence of a name or image does not establish wrongdoing. Claims should be evaluated against the underlying record and corroborating evidence.
+"Epstein files" are not a single verified list of offenders or participants. The collection contains government records, court records, tips, correspondence, photographs, flight records, and other material. Presence of a name or image does not establish wrongdoing. Claims should be evaluated against the underlying record and corroborating evidence.
 
 7. EPSTEIN ISLAND
-Epstein owned Little Saint James in the U.S. Virgin Islands. Public records and reporting frequently call it “Epstein Island.” Publicly released records document Epstein's properties, aircraft, associates, and investigations. I have not treated mere association with Epstein, a flight, a photograph, or a named record as evidence of criminal activity.
+Epstein owned Little Saint James in the U.S. Virgin Islands. Public records and reporting frequently call it "Epstein Island." Publicly released records document Epstein's properties, aircraft, associates, and investigations. I have not treated mere association with Epstein, a flight, a photograph, or a named record as evidence of criminal activity.
 
 8. LEGAL AND COURT HISTORY
 Trump has been involved in extensive civil and criminal litigation. Major publicly documented matters include New York business-fraud litigation involving the Trump Organization; federal election-related criminal prosecution arising from the 2020 election; federal classified-documents prosecution; New York criminal prosecution concerning falsification of business records; and numerous civil lawsuits and appeals.
 
 Legal status changes over time. A charge or allegation is not equivalent to a conviction, and civil findings are distinct from criminal convictions.
 
-9. PUBLIC OFFICIAL RECORDS AND PRIMARY SOURCES
+9. PUBLIC SOCIAL-MEDIA RECORDS
+The Donald J. Trump Presidential Library/National Archives preserves Trump Administration social-media records. Its archived-social-media program covers institutional and official accounts and states that personal accounts used for government business can also be made publicly available.
+
+Primary archival route:
+Donald J. Trump Presidential Library — Archived Social Media
+https://www.trumplibrary.gov/research/archived-social-media
+
+National Archives research information:
+https://www.archives.gov/foia/pra-trump-admin
+
+10. TRUTH SOCIAL
+Trump's Truth Social activity is a separate post-presidential/current-period record. A searchable independent archive, Trump's Truth, states that it archives Trump's Truth Social posts and provides indexes of statements, video transcripts and image descriptions.
+
+Archive:
+https://trumpstruth.org/
+
+The archive should be treated as a secondary archival source rather than as a replacement for platform-native records or government archives. Individual entries should retain their date, source URL/identifier where available, and whether the item is an original post, repost/reply, transcript, or media description.
+
+11. PRESIDENTIAL DOCUMENTS AND PUBLIC COMMUNICATIONS
+The archive should include, where publicly available:
+- Inaugural addresses
+- State of the Union addresses
+- Joint addresses to Congress
+- Remarks at White House events
+- Press conferences
+- Campaign speeches
+- Rally speeches
+- Interviews
+- Statements released through official government channels
+- Presidential proclamations
+- Executive orders
+- Memoranda
+- Presidential determinations
+- Signing statements
+- Official correspondence
+- Public schedules
+- White House briefing materials
+- Public Papers of the Presidents
+- Official photographs and audiovisual records
+- Congressional testimony and Congressional Record references
+
+12. PRESIDENTIAL RECORDS AND FOIA
+The Presidential Records Act governs records of the first Trump administration. The Trump Presidential Library states that records from the January 2017–January 2021 administration became subject to FOIA requests on January 20, 2026.
+
+The current 47th-administration records are subject to different timing rules. The Library states they become subject to FOIA five years after NARA takes legal custody at the end of that administration.
+
+Presidential records are not the same thing as Trump's private/personal records, campaign records, or Trump Organization business records.
+
+FOIA source:
+https://www.trumplibrary.gov/research/submit-foia-request
+
+13. BUSINESS AND FINANCIAL RECORDS
+The expanded archive should cross-reference, where publicly available:
+- Trump Organization corporate records
+- Public financial-disclosure filings
+- SEC filings involving relevant public companies
+- Bankruptcy and restructuring records
+- Real-estate transaction records
+- Property records
+- Licensing and branding agreements reported in public records
+- Tax-related records that have been lawfully published
+- Public litigation concerning businesses
+- Campaign-finance records
+- Federal Election Commission filings
+- Public statements about income, assets and liabilities
+- Publicly reported cryptocurrency ventures
+- Publicly reported licensing, media and entertainment income
+
+Financial figures must be labeled by source, reporting period, gross/net character, and whether they represent income, revenue, asset value, proceeds, or another accounting measure. These categories must not be silently treated as interchangeable.
+
+14. FAMILY AND ASSOCIATED BUSINESS RECORDS
+Where legally and publicly documented, the archive may index:
+- Donald Trump Jr.
+- Eric Trump
+- Ivanka Trump
+- Melania Trump
+- Jared Kushner
+- Other publicly documented relatives or business associates
+
+Family references should be included only when relevant to the public record being documented. Mere familial association should not be presented as evidence of wrongdoing.
+
+15. LEGAL AND COURT RECORD INDEX
+The archive should index public:
+- Civil complaints
+- Criminal indictments
+- Motions
+- Orders
+- Judgments
+- Appeals
+- Trial transcripts where publicly available
+- Regulatory proceedings
+- Bankruptcy proceedings
+- Settlement documents
+- Judicial opinions
+- Attorney statements
+- Prosecutorial statements
+- Official responses by Trump or his representatives
+
+Each legal entry should identify:
+DATE
+COURT/JURISDICTION
+CASE
+DOCUMENT TYPE
+PARTIES
+ALLEGATION OR ISSUE
+PROCEDURAL STATUS
+OUTCOME, IF ANY
+PRIMARY SOURCE
+SECONDARY SOURCES
+IMPORTANT LIMITATIONS
+
+16. EPSTEIN PUBLIC-RECORD INDEXING RULE
+For each publicly released Epstein-related item, preserve:
+- Source document
+- Release date
+- Original date, if known
+- Page/document identifier
+- Exact context
+- Whether it is an allegation, statement, witness account, contact record, travel record, government record, court filing, or other category
+- Whether the claim was corroborated, disputed, or unresolved
+
+17. PUBLIC COMMUNICATIONS RECORD FORMAT
+A standardized record can use:
+
+[DATE]
+[PLATFORM / MEDIUM]
+[ACCOUNT / SPEAKER]
+[RECORD TYPE]
+[TEXT / TRANSCRIPT OR DESCRIPTION]
+[ORIGINAL SOURCE]
+[ARCHIVE SOURCE]
+[MEDIA ATTACHMENTS]
+[RELATED EVENT]
+[CORROBORATING RECORDS]
+[DISPUTES / CORRECTIONS]
+[STATUS]
+
+Suggested status values:
+PRIMARY GOVERNMENT RECORD
+PRIMARY COURT RECORD
+PRIMARY CORPORATE RECORD
+PUBLIC STATEMENT
+ARCHIVED SOCIAL MEDIA
+SECONDARY ARCHIVE
+JOURNALISTIC REPORT
+ALLEGATION
+UNVERIFIED MATERIAL
+DISPUTED
+CORRECTED / RETRACTED
+
+18. CHRONOLOGICAL MASTER INDEX
+A. 1946–1960s — Birth, family and childhood
+B. 1960s–1970s — Education and early career
+C. 1970s–1980s — New York real estate and public profile
+D. 1980s–1990s — Business, media and celebrity period
+E. 1990s–2000s — Business restructuring, television and branding
+F. 2000s–2015 — The Apprentice, political commentary and public profile
+G. 2015–2016 — First presidential campaign
+H. 2017–2021 — 45th presidency
+I. 2021–2024 — Post-presidency and political activity
+J. 2024 — Presidential campaign and election
+K. 2025–2026 — 47th presidency
+L. September 2026 — Current public-record snapshot
+
+19. SOURCE-PROVENANCE RULE
+Every major factual entry should be traceable to a source.
+
+Priority:
+1. Court/government record
+2. Presidential archive/NARA
+3. Corporate or regulatory filing
+4. Direct public statement
+5. Established news organization
+6. Specialist archive
+7. Secondary commentary
+
+Where sources conflict, preserve the disagreement and identify which source made each claim instead of silently selecting one narrative.
+
+20. COMPLETENESS LIMITATION
+This file is an expanded research archive and source map, not a claim that every public communication ever made by Donald Trump has been downloaded. A genuinely exhaustive corpus would require systematic collection and deduplication from multiple archives, government repositories, court systems, news databases, social-media archives, audiovisual repositories and historical collections.
+
+The official Trump Presidential Library says its archived social-media list is updated as records become available. NARA also describes preservation of the Trump-era electronic record as a large archival undertaking. Therefore the archive should be versioned by date and continuously updated rather than described as permanently complete.
+
+21. PRIMARY SOURCE INDEX
 U.S. Office of Government Ethics: https://www.oge.gov/
 DOJ Epstein Library: https://www.justice.gov/epstein
 DOJ Epstein disclosures: https://www.justice.gov/epstein/doj-disclosures
 White House biography: https://www.whitehouse.gov/administration/donald-j-trump/
+Donald J. Trump Presidential Library: https://www.trumplibrary.gov/
+Archived Social Media: https://www.trumplibrary.gov/research/archived-social-media
+FOIA information: https://www.trumplibrary.gov/research/submit-foia-request
+Truth Social secondary archive: https://trumpstruth.org/
 
-10. RESEARCH QUALITY / WHAT THIS FILE DOES NOT CLAIM
-- It does not claim to contain every document about Donald Trump.
-- It does not include private messages or hacked/private databases.
-- It does not reproduce victim-identifying or otherwise protected private information.
-- It does not equate allegations with facts.
-- It does not equate social contact with criminal conduct.
-- Financial figures are labeled as reported, disclosed, or estimated where appropriate.
-- Private-company financial information is incomplete by nature.
-- The research cutoff is September 17, 2026.
+22. RESEARCH QUALITY
+- No private communications are included.
+- No hacked or unauthorized datasets are included.
+- Victim-identifying and legally protected private information is excluded.
+- Allegations are not presented as established facts.
+- Social contact is not presented as evidence of criminal conduct.
+- Financial figures are labeled as disclosed, reported, or estimated where appropriate.
+- Private-company financial information is inherently incomplete.
+- The research cutoff is 17 September 2026.
 
-SOURCE NOTES
-Key sources used for this dossier include U.S. Office of Government Ethics presidential financial disclosure releases; U.S. Department of Justice Epstein Library and Epstein Files Transparency Act releases; White House biography; Reuters reporting on Trump's 2025 financial disclosure and Trump-family crypto businesses; and publicly released DOJ/court records concerning Epstein flight records.
-
-This document is intended as a structured public-record starting point. The full DOJ Epstein production is nearly 3.5 million pages and cannot reasonably be embedded in a single TXT dossier; the official DOJ library is the appropriate source for the underlying production.
+END OF EXPANDED PUBLIC-RECORD ARCHIVE
