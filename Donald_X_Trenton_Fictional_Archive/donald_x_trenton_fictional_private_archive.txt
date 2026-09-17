@@ -1,0 +1,300 @@
+DONALD X. TRENTON
+FICTIONAL PRIVATE-RECORD INTELLIGENCE ARCHIVE
+SYNTHETIC DATASET — NOT A REAL PERSON
+VERSION 1.0
+
+============================================================
+CRITICAL NOTICE
+============================================================
+Donald X. Trenton is a completely fictional character created
+for simulation and creative-research purposes.
+
+EVERY RECORD IN THIS FILE IS INVENTED.
+NO RECORD DESCRIBES THE REAL DONALD J. TRUMP.
+NO PRIVATE RECORD OF ANY REAL PERSON WAS ACCESSED.
+NO HACKED, LEAKED, STOLEN, CREDENTIAL-DERIVED, OR RESTRICTED
+DATA IS PRESENT.
+
+All identifiers, messages, accounts, addresses, financial figures,
+device records, medical entries, locations, and documents below
+are synthetic.
+
+============================================================
+01 — FICTIONAL IDENTITY
+============================================================
+
+Name: Donald X. Trenton
+Classification: SYNTHETIC CHARACTER
+Birth record: FICTIONAL
+Occupation: Fictional entrepreneur / public figure
+Archive ID: FXT-0001-TRN
+Residence: 100% fictional location
+Status: SIMULATION ACTIVE
+
+============================================================
+02 — FICTIONAL PRIVATE COMMUNICATIONS
+============================================================
+
+[2026-08-02 08:14] MESSAGE FXT-MSG-001
+From: Alex_Orchid
+To: DXT-0001
+Text: "The archive prototype is ready for review."
+Status: SYNTHETIC
+
+[2026-08-07 21:03] MESSAGE FXT-MSG-002
+From: DXT-0001
+To: Alex_Orchid
+Text: "Move the simulation into the isolated test environment."
+Status: SYNTHETIC
+
+[2026-08-14 11:47] MESSAGE FXT-MSG-003
+From: Mira_North
+To: DXT-0001
+Text: "The fictional ledger reconciliation completed successfully."
+Status: SYNTHETIC
+
+============================================================
+03 — FICTIONAL EMAILS
+============================================================
+
+Message ID: FXT-EMAIL-1001
+Date: 2026-08-19
+Sender: archive@example.invalid
+Recipient: dxt@example.invalid
+Subject: Synthetic Archive Review
+Body:
+"This communication exists only inside the Donald X. Trenton
+simulation. No real mailbox or communication system is involved."
+
+Message ID: FXT-EMAIL-1002
+Subject: Emergency Simulation Procedure
+Body:
+"If the simulation becomes inconsistent, activate ARCHIVE LOCK."
+Status: SYNTHETIC
+
+============================================================
+04 — FICTIONAL FINANCIAL LEDGER
+============================================================
+
+Currency: SIM-USD
+Account: SYNTH-BANK-0001
+Opening balance: 8,420,000 SIM-USD
+
+2026-08-03  +120,000  Fictional consulting revenue
+2026-08-08   -18,500  Fictional equipment purchase
+2026-08-15  +250,000  Fictional licensing revenue
+2026-08-21   -42,000  Fictional research expenditure
+2026-08-30   +75,000  Fictional media rights
+
+Closing balance: 8,804,500 SIM-USD
+
+These are invented simulation values and have no relationship
+to any real person's assets, income, accounts, or transactions.
+
+============================================================
+05 — FICTIONAL DEVICE LOGS
+============================================================
+
+Device: SYNTH-PHONE-01
+Owner: Donald X. Trenton (fictional)
+OS: SimulationOS 9.4
+
+2026-08-11 07:02  BOOT
+2026-08-11 07:04  SIMULATION-MAIL opened
+2026-08-11 07:22  ARCHIVE index synchronized
+2026-08-11 09:41  Device locked
+2026-08-11 17:06  Device unlocked
+2026-08-11 23:58  SHUTDOWN
+
+Device: SYNTH-LAPTOP-07
+2026-08-12 09:00  SESSION START
+2026-08-12 09:14  FICTIONAL_LEDGER opened
+2026-08-12 10:31  ARCHIVE_TEST executed
+2026-08-12 18:20  SESSION END
+
+No real device was accessed.
+
+============================================================
+06 — FICTIONAL ENCRYPTED FILE INDEX
+============================================================
+
+FILE: trenton_private_archive.sim
+TYPE: Synthetic container
+SIZE: 4.2 MB
+Encryption label: SIM-AES-256
+Status: FICTIONAL
+
+FILE: financial_model.synthetic
+TYPE: Fabricated spreadsheet
+Status: FICTIONAL
+
+FILE: correspondence.synthetic
+TYPE: Invented message collection
+Status: FICTIONAL
+
+FILE: device_history.synthetic
+TYPE: Fabricated telemetry
+Status: FICTIONAL
+
+No real encryption keys or credentials are contained here.
+
+============================================================
+07 — FICTIONAL LOCATION HISTORY
+============================================================
+
+2026-08-03  Fictional Office Alpha
+2026-08-07  Fictional Research Campus
+2026-08-12  Fictional Residence Delta
+2026-08-19  Fictional Archive Facility
+2026-08-25  Fictional Conference Center
+
+Coordinates intentionally omitted because the locations are
+entirely fictional and exist only inside the simulation.
+
+============================================================
+08 — FICTIONAL MEDICAL PLACEHOLDER
+============================================================
+
+Record: SYNTH-MED-0001
+Patient: Donald X. Trenton
+Status: FICTIONAL PLACEHOLDER ONLY
+
+No diagnosis, treatment, genetic information, or real medical
+information is represented by this record.
+
+============================================================
+09 — FICTIONAL CORPORATE FILES
+============================================================
+
+Company: Trenton Synthetic Ventures LLC
+Registration: SIM-REG-774201
+Jurisdiction: Fictional State of Example
+Founded: 2024 (fictional)
+
+Subsidiaries:
+- Trenton Orbital Systems — fictional
+- X-Trenton Media Lab — fictional
+- Synthetic Capital Group — fictional
+
+All entities and registrations are invented.
+
+============================================================
+10 — FICTIONAL INVESTIGATION INDEX
+============================================================
+
+Case: FXT-INV-2048
+Title: The Missing Simulation Ledger
+Classification: FICTIONAL
+Status: Closed in simulation
+
+Finding:
+A synchronization error caused three synthetic ledger entries
+to appear twice. The duplication was corrected.
+
+IMPORTANT:
+This is not a real allegation, investigation, prosecution,
+court case, or law-enforcement record.
+
+============================================================
+11 — FICTIONAL CREDENTIAL PLACEHOLDERS
+============================================================
+
+Username: dxt_simulation_user
+Password: [NONFUNCTIONAL_PLACEHOLDER]
+API token: [SYNTHETIC_TOKEN_NOT_VALID]
+Recovery code: [FICTIONAL-CODE-0000]
+
+These strings are deliberately nonfunctional.
+
+============================================================
+12 — FICTIONAL CYBERSECURITY INCIDENT
+============================================================
+
+Incident ID: SIM-CYBER-009
+Threat: Synthetic archive corruption
+Severity: Simulation-only
+Real-world impact: NONE
+
+Timeline:
+T+00:00  Corrupted synthetic record detected
+T+00:03  Archive integrity check initiated
+T+00:07  Duplicate records isolated
+T+00:11  Simulation restored
+T+00:15  Integrity verification completed
+
+No real computer system was attacked or accessed.
+
+============================================================
+13 — EMERGENCY STOP / ARCHIVE LOCK
+============================================================
+
+SYSTEM: TRENTON-SIMULATION
+CONTROL: ARCHIVE LOCK
+
+Purpose:
+Immediately stop the fictional simulation and freeze its
+synthetic records.
+
+State:
+[ SIMULATION ONLY ]
+
+Emergency action:
+ARCHIVE_LOCK = TRUE
+
+Result:
+- Freeze fictional records
+- Stop synthetic processes
+- Disable simulation outputs
+- Preserve fictional archive state
+
+This control has NO connection to any real computer, account,
+device, person, infrastructure, weapon, or life-support system.
+
+============================================================
+14 — MASTER ARCHIVE TIMELINE
+============================================================
+
+2024  Fictional company founded
+2025  Fictional media network created
+2026  Synthetic private archive initialized
+2026  Synthetic communications generated
+2026  Synthetic financial ledger generated
+2026  Synthetic device telemetry generated
+2026  Simulation cybersecurity test completed
+2026  Archive Lock specification finalized
+
+============================================================
+15 — DATA PROVENANCE
+============================================================
+
+Real personal data: NONE
+Real private communications: NONE
+Real financial accounts: NONE
+Real medical information: NONE
+Real credentials: NONE
+Real device data: NONE
+Real hacked material: NONE
+Real restricted material: NONE
+
+Dataset generation method:
+Fully synthetic creative construction.
+
+============================================================
+16 — ARCHIVE TERMINAL
+============================================================
+
+ENTITY: DONALD X. TRENTON
+REALITY STATUS: FICTIONAL
+DATA STATUS: SYNTHETIC
+PRIVACY STATUS: PRESERVED
+SECURITY STATUS: ISOLATED
+REAL-WORLD ACCESS: NONE
+ARCHIVE LOCK: AVAILABLE
+
+END OF SYNTHETIC ARCHIVE
+
+FICTIONAL / SYNTHETIC DATA
+NOT A REAL PERSON
+NOT REAL PRIVATE INFORMATION
+NOT REAL CREDENTIALS
+NOT REAL INVESTIGATIVE MATERIAL
